@@ -1,11 +1,7 @@
-﻿#EXTM3U
-#EXTINF:-1 ,TJK TV 360
+
 https://tjktv-live.tjk.org/tjktv_360p.m3u8
-#EXTINF:-1 ,TJK TV 480
 https://tjktv-live.tjk.org/tjktv_480p.m3u8
-#EXTINF:-1 ,TJK HD
 http://tjktv-live.tjk.org/tjktv.m3u8
-#EXTINF:-1 ,TJK 2 HD
 https://tjktv.ercdn.net/tjktv.m3u8
 #EXTINF:-1 ,TAY TV
 https://hw1.jemtv.com/app/taytv/playlist.m3u8
